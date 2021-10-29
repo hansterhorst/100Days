@@ -10,7 +10,12 @@
 - What about **www**.
 - Create your first HTML page.
     - `index.html`
-  
+
+**Day 2**
+- HTML elements and attributes
+    - h1 and p tags
+    - style attribute
+ 
 
 
             
