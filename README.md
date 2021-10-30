@@ -4,12 +4,11 @@
 
 ### HTML & CSS part 1
 
-**Day 1**,
+**Day 2**
 
-- How the internet works.
-- What about **www**.
-- Create your first HTML page.
-    - `index.html`
+-HTML elements and attributes
+ - h1 and p tags
+ - style attribute
   
 
 
