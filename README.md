@@ -16,6 +16,15 @@
     - h1 and p tags
     - style attribute
  
-
+**Day 3**
+- CSS styling
+  - Style tag
+  - HTML document structure
+    - `<!DOCTYPE html>`
+    - `<html></html>`, Root element
+    - `<head></head>`, Page metadata
+    - `<body></body>`, Page content
+ 
+     
 
             
