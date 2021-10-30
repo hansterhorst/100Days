@@ -1,6 +1,4 @@
-# Webdevelopment Bootcamp
-
-## 100 Days of Coding
+# 100 Days of Coding Webdevelopment Bootcamp
 
 ### HTML & CSS part 1
 
