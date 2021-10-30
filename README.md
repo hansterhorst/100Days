@@ -17,7 +17,7 @@
 **Day 3**
 - CSS styling
   - Style tag
-  - HTML document structure
+  - HTML document skeleton
     - `<!DOCTYPE html>`
     - `<html></html>`, Root element
     - `<head></head>`, Page metadata
