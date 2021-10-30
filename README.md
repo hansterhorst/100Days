@@ -4,12 +4,15 @@
 
 ### HTML & CSS part 1
 
-**Day 1**,
+**Day 3**
 
-- How the internet works.
-- What about **www**.
-- Create your first HTML page.
-    - `index.html`
+- CSS styling
+- Style tag
+- HTML document skeleton
+  - `<!DOCTYPE html>`
+  - `<html></html>`, Root element
+  - `<head></head>`, Page metadata
+  - `<body></body>`, Page content
   
 
 
