@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: #646363
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+    color: #646363;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: #646363;
+}
+
+#today-challenge {
+    color: rgb(170, 96, 83);
+    font-weight: bold;
+    font-size: 52px;
+}
