@@ -4,12 +4,13 @@
 
 ### HTML & CSS part 1
 
-**Day 4**,
-Dive deeper into CSS and styling, and learn how you can split the code in multiple files
+**Day 5**, Reach the end of the first main course section and learned how to add and style images to a websites!
 
-- Split CSS style in aa separate file.
-- Use the `id` attribute.
-- Add Google Fonts 
+- Add images.
+  - `<img src="link to the image location" alt"some text"`
+  - Styling the image.
+- Add second HTML file.
+- Organize files in a folder structure.
   
 
 
