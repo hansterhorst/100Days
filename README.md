@@ -2,15 +2,15 @@
 
 ## 100 Days of Coding
 
-### HTML & CSS part 1
+### HTML & CSS part 2
 
-**Day 5**, Reach the end of the first main course section and learned how to add and style images to a websites!
+**Day 6**. Move to an even better local development setup and start diving into the depths of CSS fundamentals!
 
-- Add images.
-  - `<img src="link to the image location" alt"some text"`
-  - Styling the image.
-- Add second HTML file.
-- Organize files in a folder structure.
+- Understand Lists.
+  - `ul`, unordered list.
+  - `oi`, ordered list.
+- Understand parent, children, containers and more.
+- Styling the second HTMl page.
   
 
 
